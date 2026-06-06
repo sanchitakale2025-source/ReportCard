@@ -1,1 +1,1 @@
-# ReportCard
+This program allows user to input their 3 subjects obtainted, minimum passing, maximun marks per student.And gives back the result on basis if these marks.If student fails in atleast one subject his/her result gets displayed as failed. And if the student passes every subject then his/her percentage is being calculated and displayed with overall Division according to total percentage scored.
